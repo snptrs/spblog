@@ -1,7 +1,8 @@
 ---
 title: "Reply Guy"
 date: 2020-04-12T11:36:00Z
-categories: Microblog
+categories:
+  - "Microblog"
 ---
 
 A great term I heard for the first time today:
