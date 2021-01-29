@@ -5,8 +5,7 @@ draft: false
 categories:
   - Microblog
 ---
-
-This was Nixon. Imagine a president being so vain and childish.
+Imagine a president being so vain and childish.
 
 > The president wanted to reimpose a ban on New York Times reporters entering the White House – the paper hadn’t given him enough praise for his role in the Apollo programme.
 
