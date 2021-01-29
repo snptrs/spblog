@@ -1,6 +1,9 @@
 ---
-title: "This was Nixon"
-date: 2019-09-29T21:00:00Z
+title: This was Nixon
+date: 2019-09-29T21:00:00.000Z
+draft: false
+categories:
+  - Microblog
 ---
 
 This was Nixon. Imagine a president being so vain and childish.
