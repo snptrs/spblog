@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sean Peters</title>
+    <link>https://www.snptrs.com/categories/</link>
+    <description>Recent content in Categories on Sean Peters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Apr 2020 11:36:00 +0000</lastBuildDate><atom:link href="https://www.snptrs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microblog</title>
+      <link>https://www.snptrs.com/categories/microblog/</link>
+      <pubDate>Sun, 12 Apr 2020 11:36:00 +0000</pubDate>
+      
+      <guid>https://www.snptrs.com/categories/microblog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

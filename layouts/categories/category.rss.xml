@@ -1,4 +1,4 @@
-{{- $pctx := . -}}
+s{{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
 {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
@@ -23,7 +23,7 @@
     {{- end -}}
     {{ range $pages }}
     <item>
-      <title>{{ if (not in .Params.categories "Microblog") }}{{ .Title }}{{ end }}</title>
+      <title>{{ if in .Params.categories "Microblog" }}{{ else }}{{ .Title }}{{ end }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
