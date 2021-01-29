@@ -5,4 +5,4 @@ cover.hidden: false
 ---
 [Alan Bennett’s diary](https://www.lrb.co.uk/v41/n01/alan-bennett/diary) in the LRB is always one of my favourite reads at this time of year.
 
-![](/images/uploads/ryunosuke-kikuno-akkv3axcwmo-unsplash-2.jpg)
+![](/images/uploads/night-sky.jpg)
