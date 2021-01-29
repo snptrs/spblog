@@ -35,6 +35,7 @@ params:
     hidemeta: false
     showtoc: false
     tocopen: false
+    ShowPostNavLinks: true
 
     assets:
         # disableHLJS: true # to disable highlight.js
