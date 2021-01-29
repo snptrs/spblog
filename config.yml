@@ -28,7 +28,7 @@ params:
     defaultTheme: auto # dark, light
     disableThemeToggle: false
 
-    mainSections = ["posts"]
+    mainSections: ["posts"]
 
     ShowReadingTime: true
     ShowShareButtons: false
