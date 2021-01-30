@@ -30,7 +30,7 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | html }}</description>
       <content:encoded>
-        <![CDATA[{{ .Content }}]]>
+        {{ .Content }}
       </content:encoded>
     </item>
     {{ end }}
