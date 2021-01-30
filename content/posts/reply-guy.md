@@ -2,8 +2,7 @@
 title: Reply Guy
 date: 2020-04-12T11:36:00.000Z
 draft: false
-categories:
-  - Microblog
+categories: []
 ---
 A great term I heard for the first time today:
 
