@@ -1,7 +1,7 @@
 ---
 title: Books
 draft: false
-showreadingtime: true
+showreadingtime: false
 ---
 
 This is where I'll put stuff about books... 
