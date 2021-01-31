@@ -7,5 +7,4 @@ showreadingtime: false
 
 ### January
 
-1. _Last Train to Hilversum_ by Charlie Connelly.
-2. 
+1. _[Last Train to Hilversum](https://www.google.co.uk/books/edition/Last_Train_to_Hilversum/F7-EDwAAQBAJ)_ by Charlie Connelly.
