@@ -5,6 +5,7 @@ theme: PaperMod
 
 permalinks:
   posts: /:slug/
+  pages: /:slug/
 
 enableRobotsTXT: true
 buildDrafts: false
