@@ -1,8 +1,8 @@
 ---
 title: "Books"
 # layout: "archives" # is necessary
-url: "/books"
+#url: "/books"
+ShowReadingTime: false
 # description: "Description for Archive"
 ---
 
-# Books
