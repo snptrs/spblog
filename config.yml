@@ -32,7 +32,7 @@ params:
 
     ShowReadingTime: true
     ShowShareButtons: false
-    disableSpecial1stPost: false
+    disableSpecial1stPost: true
     comments: false
     hidemeta: false
     showtoc: false
@@ -74,9 +74,9 @@ params:
 
  
 
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
+    #analytics:
+    #    google:
+    #        SiteVerificationTag: "XYZabc"
 
     cover:
         hidden: true # hide everywhere but not in structured data

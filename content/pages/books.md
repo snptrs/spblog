@@ -1,6 +1,6 @@
 ---
 title: "Books"
-showreadingtime: false
+ShowReadingTime: false
 ---
 
 This is where I'll put stuff about books...
