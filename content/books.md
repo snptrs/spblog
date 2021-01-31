@@ -1,7 +1,7 @@
 ---
 title: "Books"
 # layout: "archives" # is necessary
-url: "/archive"
+url: "/books"
 # description: "Description for Archive"
 ---
 
