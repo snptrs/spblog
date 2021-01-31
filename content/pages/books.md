@@ -1,6 +1,5 @@
 ---
 title: Books
-ShowReadingTime: false
 draft: false
 showreadingtime: false
 ---
