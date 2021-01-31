@@ -3,5 +3,9 @@ title: Books
 draft: false
 showreadingtime: false
 ---
+## What I’ve read in 2021
 
-This is where I'll put stuff about books... 
+### January
+
+1. _Last Train to Hilversum_ by Charlie Connelly.
+2. 
