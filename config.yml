@@ -32,7 +32,7 @@ params:
 
     ShowReadingTime: true
     ShowShareButtons: false
-    disableSpecial1stPost: true
+    disableSpecial1stPost: false
     comments: false
     hidemeta: false
     showtoc: false
