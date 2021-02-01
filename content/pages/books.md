@@ -2,7 +2,6 @@
 title: Books
 draft: false
 showreadingtime: false
-ShowBreadCrumbs: true
 ---
 ## Books read in 2021
 
