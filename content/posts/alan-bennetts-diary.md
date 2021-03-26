@@ -2,8 +2,7 @@
 title: Alan Bennett’s diary
 date: 2018-12-28T22:00:00.000Z
 draft: false
-tags:
-  - books
+tags: []
 categories:
   - Microblog
 ---
