@@ -3,6 +3,8 @@ title: Books
 draft: false
 showreadingtime: false
 ---
+- [Books read in 2020](/books/read-in-2020/)
+
 ## Books read in 2021
 
 ### January
