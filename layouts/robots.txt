@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /microfeed/
+Disallow: /pages/
 Sitemap: {{ "sitemap.xml" | absURL }}
