@@ -3,6 +3,8 @@ title: Books read in 2020
 draft: false
 url: /books/read-in-2020
 showreadingtime: false
+categories:
+  - Books
 ---
 ## January
 
