@@ -1,7 +1,7 @@
 ---
 title: Books read in 2020
 draft: true
-url: /read-in-2020
+url: ""
 showreadingtime: false
 ---
 ## January
