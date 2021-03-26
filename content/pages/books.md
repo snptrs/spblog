@@ -7,6 +7,18 @@ showreadingtime: false
 
 ### January
 
-1. _[Last Train to Hilversum](https://www.google.co.uk/books/edition/Last_Train_to_Hilversum/F7-EDwAAQBAJ)_ by Charlie Connelly.
-2. [Blindness](https://www.google.co.uk/books/edition/Blindness/WME_6Yw0ZaIC) by José Saramago.
-3. [Halfway To Hollywood: Diaries 1980-1988](https://www.google.co.uk/books/edition/Halfway_To_Hollywood/JGaEygYQltwC?hl=en&gbpv=0) by Michael Palin.
+1. _Last Train to Hilversum_ by Charlie Connelly.
+2. _Blindness_ by José Saramago.
+3. _Halfway To Hollywood: Diaries 1980-1988_ by Michael Palin.
+
+### February
+
+4. _The Ministry of Truth: A biography of George Orwell’s 1984_ by Dorian Lynskey.
+5. _You Could Do Something Amazing with Your Life [You Are Raoul Moat]_ by Andrew Hankinson
+6. _Intimations_ by Zadie Smith
+7. _Watermark: An Essay on Venice_ by Joseph Brodsky
+
+### March
+
+8. _Drive Your Plow Over the Bones of the Dead_ by Olga Tokarczuk
+9. _The Playboy of the Western World_ by J. M. Synge
