@@ -11,7 +11,7 @@ categories: []
 1. *Confessions of a Bookseller* by Shaun Bythell.
 2. *Leaving the Atocha Station* by Ben Lerner.
 3. *The Visitor* by Lee Child.
-4. *How to Be a Public Author by Francis Plug* by Paul Ewen.
+4. *Francis Plug – How to Be a Public Author* by Paul Ewen.
 5. *Free Will* by Sam Harris.
 
 ## February
