@@ -14,11 +14,12 @@ showreadingtime: false
 ### February
 
 4. _The Ministry of Truth: A biography of George Orwell’s 1984_ by Dorian Lynskey.
-5. _You Could Do Something Amazing with Your Life [You Are Raoul Moat]_ by Andrew Hankinson
-6. _Intimations_ by Zadie Smith
-7. _Watermark: An Essay on Venice_ by Joseph Brodsky
+5. _You Could Do Something Amazing with Your Life [You Are Raoul Moat]_ by Andrew Hankinson.
+6. _Intimations_ by Zadie Smith.
+7. _Watermark: An Essay on Venice_ by Joseph Brodsky.
 
 ### March
 
-8. _Drive Your Plow Over the Bones of the Dead_ by Olga Tokarczuk
-9. _The Playboy of the Western World_ by J. M. Synge
+8. _Drive Your Plow Over the Bones of the Dead_ by Olga Tokarczuk.
+9. _The Playboy of the Western World_ by J. M. Synge.
+10. _Notebook_ by Tom Cox.
