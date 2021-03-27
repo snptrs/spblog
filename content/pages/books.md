@@ -1,7 +1,7 @@
 ---
 title: Books
 draft: false
-url: /books
+url: /books/
 showreadingtime: false
 ---
 Some test content
