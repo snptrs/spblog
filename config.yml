@@ -96,9 +96,9 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: books
-          name: Books
-          url: /books/
+        - identifier: reading
+          name: Reading
+          url: /reading/
           weight: 5
         #- identifier: tags
         #  name: Tags
