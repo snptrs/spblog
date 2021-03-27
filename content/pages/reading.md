@@ -8,7 +8,7 @@ tags:
 categories:
   - Books
 ---
-- [Books read in 2020]({{< relref "/pages/books-read-in-2020" >}})
+- [Books read in 2020]({{< ref "/pages/books-read-in-2020" >}})
 
 ## Books read in 2021
 
