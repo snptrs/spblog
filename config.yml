@@ -99,6 +99,7 @@ menu:
         - identifier: reading
           name: Reading
           url: /reading/
+          url: /reading/
           weight: 5
         #- identifier: tags
         #  name: Tags
