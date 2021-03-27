@@ -3,6 +3,10 @@ title: Reading
 draft: false
 summary: Books I’ve read this year, and links to previous years.
 showreadingtime: false
+tags:
+  - books
+categories:
+  - Books
 ---
 - [Books read in 2020](/books/read-in-2020)
 
