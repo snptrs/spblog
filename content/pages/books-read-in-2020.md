@@ -1,6 +1,7 @@
 ---
 title: Books read in 2020
 draft: false
+summary: A list of everything I read in 2020.
 url: /books/read-in-2020
 showreadingtime: false
 tags: []
