@@ -7,8 +7,6 @@ showreadingtime: false
 tags: []
 categories:
   - Books
-aliases:
-    - /books/
 ---
 ## January
 
