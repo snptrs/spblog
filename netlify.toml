@@ -8,7 +8,7 @@
   ## Not needed for static site generators.
 [[redirects]]
   from = "/books/"
-  to = "/currently-reading/"
+  to = "/reading/"
 
   ## (optional) Settings for Netlify Dev
   ## https://github.com/netlify/cli/blob/master/docs/netlify-dev.md#project-detection
