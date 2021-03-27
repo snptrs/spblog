@@ -5,7 +5,7 @@ summary: A list of everything I read in 2020.
 url: /books/read-in-2020
 showreadingtime: false
 tags: []
-categories: []
+categories: [Books]
 ---
 ## January
 

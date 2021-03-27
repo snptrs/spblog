@@ -1,7 +1,7 @@
 ---
-title: Books
+title: Reading
 draft: false
-summary: Books I’ve read, and a cornucopia of bookish titillations.
+summary: Books I’ve read this year, and links to previous years.
 showreadingtime: false
 ---
 - [Books read in 2020](/books/read-in-2020)
