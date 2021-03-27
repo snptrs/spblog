@@ -7,6 +7,8 @@ tags:
   - books
 categories:
   - Books
+aliases:
+  - /books/
 ---
 - [Books read in 2020]({{< ref "/pages/books-read-in-2020" >}})
 

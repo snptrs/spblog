@@ -6,9 +6,9 @@
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
-[[redirects]]
-  from = "/books/"
-  to = "/reading/"
+#[[redirects]]
+#  from = "/books/"
+#  to = "/reading/"
 
   ## (optional) Settings for Netlify Dev
   ## https://github.com/netlify/cli/blob/master/docs/netlify-dev.md#project-detection
