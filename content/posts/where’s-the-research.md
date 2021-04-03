@@ -2,9 +2,9 @@
 title: Where’s the research?
 date: 2021-04-03T21:27:13.284Z
 draft: false
-summary: The seemingly never-ending proliferation of ‘research groups’ is
-  misleading people into thinking that pressure groups have some impartial
-  expertise associated with them.
+summary: The seemingly never-ending proliferation of Tory party ‘research
+  groups’ is misleading people into thinking that pressure groups have some
+  impartial expertise associated with them.
 cover.hidden: true
 ---
 I’ve heard the MP Steve Baker referred to a couple of times recently as Deputy Chairman of the Covid Research Group, a misnomer for what’s actually called the Covid _Recovery_ Group.[^1] It’s an understandable mistake, given the proliferation of ‘research groups’ affiliated with the Conservative party in the past few years.
