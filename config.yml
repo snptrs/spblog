@@ -40,10 +40,9 @@ params:
     tocopen: false
     ShowPostNavLinks: true
     disableScrollToTop: true
-    disableHLJS: true
 
-    #assets:
-    #    # disableHLJS: true # to disable highlight.js
+    assets:
+         disableHLJS: true # to disable highlight.js
     #    # disableFingerprinting: true
     #    favicon: "<link / abs url>"
     #    favicon16x16: "<link / abs url>"
