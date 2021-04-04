@@ -12,8 +12,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-disableScrollToTop: true
-
 googleAnalytics: 
 
 minify:
@@ -41,6 +39,7 @@ params:
     showtoc: false
     tocopen: false
     ShowPostNavLinks: true
+    disableScrollToTop: true
 
     #assets:
     #    # disableHLJS: true # to disable highlight.js
