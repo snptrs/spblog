@@ -13,9 +13,9 @@ These research groups are, on the whole, just pressure groups of disgruntled bac
 
 One of the more bewildering characteristics of these research groups is that they don’t actually seem to do much research. And therein lies the issue: a research group has an air of credibility about it; there’s a sense that what the members are saying is based on evidence, the opinions of experts and some degree of impartiality.[^3]
 
-This is broadly what’s known as a glittering generality — something that’s vaguely associated with an appealing concept, without having anything concrete to support it. A concept which Orwell brought to the fore in _Politics and the English Language_: “Words of this kind are often used in a consciously dishonest way. That is, the person who uses them has his own private definition, but allows his hearer to think he means something quite different.”
+This is broadly what’s known as a glittering generality — something that’s vaguely associated with an appealing concept, without having anything concrete to support it. Orwell discusses the idea in _Politics and the English Language_: “Words of this kind are often used in a consciously dishonest way. That is, the person who uses them has his own private definition, but allows his hearer to think he means something quite different.”
 
-Media organisations are helping propagate these falsehoods by referring to people using these often self-appointed titles. I could call myself the Chairman of the Delicious Ice Crean Research Association, but I’m not sure they’d use that title if I were interviewed on the BBC. People like Baker are MPs, and that’s the title that should be used to refer to them.
+Media organisations are helping propagate these falsehoods by referring to people using these often self-appointed titles. I could call myself the Chairman of the Delicious Ice Cream Research Association, but I’m not sure they’d use that title if I were interviewed by the BBC. Baker and his ilk are MPs, and that’s the title that should be used to refer to them.
 
 [^1]:	There are multiple groups with similar names, like the Royal College of Surgeons’ Covid Research Group and the University of Manchester’s Covid-19 research rapid response group, actually doing genuine, valuable research.
 
